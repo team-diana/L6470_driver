@@ -1,0 +1,8 @@
+{
+  "name": "L6470_driver",
+  "namespace": "driver",
+  "description": "L6470 driver",
+  "sources": [
+    "L6470.cpp"
+   ]
+}
